@@ -117,6 +117,7 @@ Prioridade: Média
 Evidências:
 
 <video controls src="evidencias/bug004.mp4" title="bug004"></video>
+https://drive.google.com/file/d/1SXCptLP3bkupJAdm2vAYqo4jDPKGUgvH/view?usp=drive_link
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -138,7 +139,8 @@ Prioridade: Média
 
 Evidências:
 
-<video controls src="evidencias/bug005.mp4" title="bug004"></video>
+<video controls src="evidencias/bug005.mp4" title="bug005"></video>
+https://drive.google.com/file/d/1aw14JaxvjpqumsaBGXmlPIpGDctc1P0n/view?usp=drive_link
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -207,6 +209,7 @@ Prioridade: Alta
 Evidências:
 
 <video controls src="evidencias/bug008.mp4" title="bug008"></video>
+https://drive.google.com/file/d/1E33iwj2EW05c44uQbBrs8NfRrLpsIZOK/view?usp=drive_link
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -230,6 +233,7 @@ Prioridade: Baixa
 Evidências:
 
 <video controls src="evidencias/bug009.mp4" title="bug009"></video>
+https://drive.google.com/file/d/1WavY3ao8NMGrpKzLemj8RdEdKzZRzW-M/view?usp=drive_link
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -253,6 +257,7 @@ Prioridade: Baixa
 Evidências:
 
 <video controls src="evidencias/bug010.mp4" title="bug010"></video>
+https://drive.google.com/file/d/1Dj8BpOdr8uF5t5NvWvOEDupmN4utfdnK/view?usp=drive_link
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -295,6 +300,7 @@ Prioridade:  Média
 Evidências:
 
 <video controls src="evidencias/bug012.mp4" title="bug012"></video>
+https://drive.google.com/file/d/1_XZsRsaV7yNJDHNfFQtK7jw5kYKwx0Mp/view?usp=drive_link
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
