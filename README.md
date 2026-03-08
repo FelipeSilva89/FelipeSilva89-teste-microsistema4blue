@@ -14,6 +14,8 @@ Tipo de teste: Teste exploratório, funcional, validação de formulário, segur
 
 Escopo: Cadastro, Login, Redirecionamento, Validações de Formulário, Segurança e UX
 
+Obs.: vídeos poderão ser acessados via diretorio do git ou download do Google Drive.
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 # 1. Bugs Encontrados
